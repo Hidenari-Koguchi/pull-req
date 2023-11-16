@@ -1,0 +1,1 @@
+task_id:"u6CBiZHa8YqsjZIUgpZML" situation_id:"czscaj9sbrnaMWu56ik05" check_item:{check_item_id:"aNHpAp0Jig69Cvrjt6eRO" command:{command_id:"2gIHv33QO3yyINVr5DGPJ" command_line:"progate diagnose"}} check_item:{check_item_id:"Ioi628wWTyAsl2UGIsZ6z" command:{command_id:"190VTK9lNNQQYJJgkR1yg" command_line:"bash ./test/test_pull_request.sh"}}
